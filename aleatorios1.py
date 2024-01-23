@@ -1,6 +1,7 @@
 
-import os
-from random import randint, uniform
+import os # libreria del sistema operativo
+from random import randint, uniform #Funciones randint --> genera numeros enteros aleatorios
+                                    #Uniform --> genera numeros aletorios flotantes o decimales
 
 os.system('clear')
 n1 = randint(-100,100)

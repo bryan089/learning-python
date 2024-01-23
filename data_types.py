@@ -67,5 +67,7 @@ print(detodito)
 print("detodito es: ", type(detodito[4]))
 
 #5. Tuplas
+
+
 #6. Diccionarios
 #7. Conjuntos
